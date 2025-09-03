@@ -1,1 +1,0 @@
-# Minicurso Git e Shell
